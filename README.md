@@ -73,7 +73,7 @@ My focus is on building resilient, secure, and automation-driven cloud platforms
 
 These are the architecture projects I’m actively building:
 
-### terraform-aws-enterprise-foundation
+### Terraform-aws-enterprise-foundation
 Enterprise-grade AWS infrastructure foundation using Terraform.
 
 Planned components:
@@ -88,7 +88,7 @@ Planned components:
 
 ---
 
-### terraform-oci-landing-zone
+### Terraform-oci-landing-zone
 Production-ready OCI infrastructure baseline.
 
 Planned components:
@@ -103,7 +103,7 @@ Planned components:
 
 ---
 
-### oci-gpu-virtualization-lab
+### Oci-gpu-virtualization-lab
 Reference implementation for AI/GPU workloads on OCI.
 
 Planned coverage:
@@ -116,7 +116,7 @@ Planned coverage:
 
 ---
 
-### kubernetes-platform-blueprints
+### Kubernetes-platform-blueprints
 Cloud-native platform architecture patterns.
 
 Planned modules:
